@@ -1,9 +1,13 @@
 body{
-    background: #1e1ee7;
+    background: #b9b9d5;
 }
 p{
     text-align: center;
+} 
+#missao{
+    font-size: 30px;
 }
-#banner{
-    width:100 ;
+
+#banner {
+    width: 30rem;
 }
