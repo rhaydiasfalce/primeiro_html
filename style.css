@@ -1,13 +1,18 @@
 body{
-    background: #b9b9d5;
+    background: #d8d6d7;
 }
 p{
     text-align: center;
+    font-size: 50px;
 } 
 #missao{
-    font-size: 30px;
+    font-size: 50px;
 }
 
 #banner {
-    width: 30rem;
+    width: 50rem;
+}
+beneficios{
+
+    font-size: 50px;
 }
